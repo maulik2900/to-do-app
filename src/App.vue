@@ -71,7 +71,6 @@ const reloadProject = () => {
       </div>
     </header>
 
-
     <main class="max-w-7xl mx-auto px-4 py-8">
       <div class="flex flex-col md:flex-row md:space-x-12">
         <!-- Projects Sidebar -->
