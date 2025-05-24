@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+# To-Do App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> **Private Project – Not for Public Use**
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A simple and efficient To-Do application built using **Vue.js**. This app helps users manage their tasks with an intuitive interface and reactive state management.
+
+## Features
+
+* Add, edit, and delete tasks
+* Mark tasks as completed or pending
+* Reactive UI with Vue's data binding
+* Persistent storage via localStorage (if implemented)
+* Responsive design for various screen sizes
+
+## Technologies Used
+
+* **Vue.js** – Component-based frontend framework
+* **HTML** – Markup and structure
+* **CSS** – Styling and layout
+* **JavaScript** – Application logic and state management
+
+## Status
+
+This project is developed as a private learning tool and is not intended for public release or commercial use.
+
